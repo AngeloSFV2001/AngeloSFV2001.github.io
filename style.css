@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .container {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #692020;
+  }
+  
+  input[type="submit"] {
+    background-color: #472323;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  input[type="file"] {
+    width: 100%;
+  }
+  
